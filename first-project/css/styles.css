@@ -1,3 +1,36 @@
 h1 {
     text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:rgb(255, 255, 255);
+        width: 900px;
+         margin: auto;
+        margin-top:20px ;
+        margin-bottom:20px; 
+        border: 4.5px;
+        border-style: dotted;
+        border-color: black;
+
+      
+}
+
+#first-line {
+    font-size: 25px;
+}
+
+#second-line {
+    font-size: 20px;
+    margin-bottom: -4px;
+}
+
+body {
+    background-color: rgb(210, 225, 241);
+    text-align: center;
+    border-style: dotted;
+    border-color:black;
+    border-width: 5px;
+  }
+
+#baking {
+    font-size: 20px;
+    margin-bottom: 7px;
 }
