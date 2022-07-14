@@ -5,7 +5,9 @@ h1{
     text-align: center;
 }
 p{
-    text-align: center;
+    text-align:center;
+    font-size: 20px;
+    width: 900px;
 }
 #ruth {
     width: 200px; 
