@@ -44,3 +44,7 @@ a {
   li {
     display: inline;
   }
+
+  h2{
+    text-align: center;
+  }
