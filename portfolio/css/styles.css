@@ -48,3 +48,25 @@ a {
   h2{
     text-align: center;
   }
+
+  #container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 400px 400px 400px;
+    justify-content: space-evenly;
+  }
+
+  .photos{
+    width: 370px;
+    height: 250px;
+  }
+  .photos-interests{
+    width: 370px;
+    height: 400px; 
+  }
+  #container-interests{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 500px 500px 500px;
+    justify-content: space-evenly;
+  }
