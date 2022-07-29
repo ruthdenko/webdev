@@ -22,41 +22,41 @@ a {
     color: black;
   }
   
-  ul {
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     text-align: center;
   }
   
-  .navbar {
+.navbar {
     text-decoration: none;
     padding: 15px;
     font-size: 23px;
     font-weight: bold;
   }
   
-  .navbar:hover {
+.navbar:hover {
     color: lightcoral;
     font-size: 30px;
   }
   
-  li {
+li {
     display: inline;
   }
 
-  h2{
+h2{
     text-align: center;
   }
 
-  #container{
+#container{
     display: grid;
     grid-template-columns: auto auto auto;
     grid-template-rows: 400px 400px 400px;
     justify-content: space-evenly;
   }
 
-  .photos{
+.photos{
     width: 370px;
     height: 250px;
   }
@@ -64,7 +64,7 @@ a {
     width: 370px;
     height: 400px; 
   }
-  #container-interests{
+#container-interests{
     display: grid;
     grid-template-columns: auto auto auto;
     grid-template-rows: 500px 500px 500px;
